@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas de la edad pediátrica</title>
+<meta name="description" content="Atlas interactivo de la edad pediátrica: periodos, cambios del cuerpo, constantes, volúmenes e indicadores de mortalidad infantil. Herramienta docente.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='24' fill='%234B3FE0'/%3E%3Cpath d='M50 44 L80 51 L50 58 L20 51 Z' fill='%233DDCB0'/%3E%3Cpath d='M50 57 L80 64 L50 71 L20 64 Z' fill='%23fff' opacity='.8'/%3E%3Cpath d='M50 70 L80 77 L50 84 L20 77 Z' fill='%23fff' opacity='.55'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <a class="brand" href="./" aria-label="Simulario">
+      <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="24" fill="#4B3FE0"/><path d="M50 70 L80 77 L50 84 L20 77 Z" fill="#fff" opacity=".55"/><path d="M50 57 L80 64 L50 71 L20 64 Z" fill="#fff" opacity=".8"/><path d="M50 44 L80 51 L50 58 L20 51 Z" fill="#3DDCB0"/><path d="M18 33 H38 L44 22 L52 42 L58 33 H82" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <b>Simulario</b>
+    </a>
+    <span class="topic" id="topic"></span>
+    <nav class="tabs" id="tabs"></nav>
+    <div class="lang" id="lang" role="group"></div>
+  </div>
+</header>
+<main id="app">
+  <noscript>Esta herramienta necesita JavaScript.</noscript>
+</main>
+<footer id="footer"></footer>
+<script type="module" src="src/ui.js"></script>
+</body>
+</html>

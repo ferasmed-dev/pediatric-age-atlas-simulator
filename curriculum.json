@@ -1,0 +1,11 @@
+{
+  "topic": "Pediatric age: periods, physiological differences of the child and child mortality indicators",
+  "system": "Pediatrics / public health",
+  "specialty": "Pediatría",
+  "eciModule": ["Módulo III · Formación clínica humana (Pediatría)", "Módulo II · Medicina social, habilidades de comunicación e iniciación a la investigación (Medicina Preventiva y Salud Pública)"],
+  "typicalSubjects": ["Pediatría", "Medicina Preventiva y Salud Pública", "Epidemiología", "Fisiología"],
+  "mirRelevant": true,
+  "keywords_es": ["edad pediátrica", "neonato", "lactante", "fontanelas", "constantes vitales pediátricas", "volemia", "mortalidad infantil", "mortalidad perinatal", "mortalidad neonatal", "ODS 3.2"],
+  "keywords_en": ["pediatric age", "neonate", "infant", "fontanelles", "pediatric vital signs", "blood volume", "infant mortality", "perinatal mortality", "neonatal mortality", "SDG 3.2"],
+  "languages": ["es", "en"]
+}

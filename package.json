@@ -1,0 +1,9 @@
+{
+  "name": "pediatric-age-atlas",
+  "version": "1.0.0",
+  "description": "Interactive atlas of the pediatric age: periods, body traits, vital signs, volumes and child mortality indicators (ES/EN teaching tool)",
+  "type": "module",
+  "private": true,
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
